@@ -1,4 +1,3 @@
-local IP = game:HttpGet("https://v4.ident.me")
 plr = game:GetService'Players'.LocalPlayer
 local premium = false
 local ALT = false
@@ -332,81 +331,11 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(178,242,255);
 	};
-    [1] = {
-		['Name'] = "Kylee [My Gf so kill her = you die] (She does not know anything about the script so stop asking)";
+	[1497865275] = {
+		['Name'] = "🖤 Liamriley101 🖤";
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(178,242,255);
 	};
-    [1] = {
-		['Name'] = "!fishgang Slays (Developer when not lazy)"; 
-		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(63,0,0);
-	};
-	[1] = {
-		['Name'] = "!fishgang Slays Alt (Not my account) (Developer when not lazy)"; 
-		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(89,89,89);
-	};
-	[1] = {
-		['Name'] = "!fishgang X_D6 (Co-Owner but not a dev)";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(176,16,16);
-	};
-	[1] = {
-		['Name'] = "!fishgang Karma (Head-Admin)";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(197,0,237);
-	};
-	[1] = {
-		['Name'] = "Drpoppa creator";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(107,50,124);
-	};
-	[1] = {
-		['Name'] = "Dot_mp4/Jack [Head-Admin]";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(127,0,212);
-	};
-	[1] = {
-		['Name'] = "!fishgang Ambiguity [Admin]";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(57,52,52);
-	};
-	[1] = {
-		['Name'] = "!fishgang Ambiguity [Admin]";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(57,52,52);
-	};
-	[1] = {
-		['Name'] = "Zero";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(255,145,175)
-	};
-	[1] = {
-		['Name'] = "1337 hax0r";
-		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(144,0,0);
-    };
-    [1] = {
-		['Name'] = "Basically a Gmod Dark RP admin (Paid)";
-		['Access'] = 2;
-		['Colour'] = Color3.fromRGB(235,31,31);
-	};
-	[1] = {
-		['Name'] = "Randomly paid me 5 dollars";
-		['Access'] = 1;
-		['Colour'] = Color3.fromRGB(255,0,255);
-	};
-	[1] = {
-		['Name'] = "Nigerian prince (Bird)";
-		['Access'] = 2;
-		['Colour'] = Color3.fromRGB(125,0,0);
-	};
-	[1] = {
-		['Name'] = "Nigerian prince (Bird)";
-		['Access'] = 2;
-		['Colour'] = Color3.fromRGB(125,0,0);
-	}
 }
 
 local BlacklistTable = {
